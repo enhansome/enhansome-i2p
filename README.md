@@ -1,7 +1,7 @@
 # Awesome I2P with stars
 
 > A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things.
-> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 503 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,750 | 🐛 312 | 📅 2026-08-04 and other [Awesome Lists](https://github.com/topics/awesome).
+> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 503 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,748 | 🐛 312 | 📅 2026-08-04 and other [Awesome Lists](https://github.com/topics/awesome).
 >
 > I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISP's.
 >
@@ -41,7 +41,7 @@
 
 ### I2P
 
-* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,671 | 🐛 17 | 🌐 Java | 📅 2026-08-13 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
+* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,672 | 🐛 17 | 🌐 Java | 📅 2026-08-13 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
 * [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
@@ -70,7 +70,7 @@
 
 ### Cryptocurrencies
 
-* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,884 | 🐛 691 | 🌐 C++ | 📅 2026-08-12 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,884 | 🐛 691 | 🌐 C++ | 📅 2026-08-12.
+* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,885 | 🐛 691 | 🌐 C++ | 📅 2026-08-12 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,885 | 🐛 691 | 🌐 C++ | 📅 2026-08-12.
 * [monero](https://github.com/monero-project/monero) ⭐ 10,770 | 🐛 688 | 🌐 C++ | 📅 2026-08-12 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) ⭐ 49 | 🐛 28 | 🌐 C++ | 📅 2026-07-12 - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [anoncoin](https://github.com/Anoncoin/anoncoin) ⭐ 42 | 🐛 15 | 🌐 C++ | 📅 2020-12-24 - Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.
@@ -151,8 +151,8 @@
 
 ### SAM
 
-* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,014 | 🐛 247 | 🌐 C++ | 📅 2026-08-12 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
-* [i2p-rs](https://github.com/i2p/i2p-rs) ⭐ 105 | 🐛 6 | 🌐 Rust | 📅 2025-07-17 - Rust client library for interacting with I2P.
+* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,015 | 🐛 248 | 🌐 C++ | 📅 2026-08-13 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
+* [i2p-rs](https://github.com/i2p/i2p-rs) ⭐ 106 | 🐛 6 | 🌐 Rust | 📅 2025-07-17 - Rust client library for interacting with I2P.
 * [node-i2p](https://github.com/redhog/node-i2p) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-29 - NodeJS api for communicating over I2P (SAMv3 client).
 * [i2plib](https://github.com/l-n-s/i2plib) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2019-02-05 - Python bindings for SAMv3.
 * [i2psam](https://github.com/i2p/i2psam) ⭐ 42 | 🐛 4 | 🌐 C++ | 📅 2025-07-17 - C++ SAMv3 library.

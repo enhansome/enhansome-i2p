@@ -190,7 +190,7 @@
             "last_commit": "2026-08-12T22:16:36Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89884
+            "stars": 89885
           }
         },
         {
@@ -836,10 +836,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T08:45:23Z",
+            "last_commit": "2026-08-13T08:37:22Z",
             "owner": "arvidn",
             "repo": "libtorrent",
-            "stars": 6014
+            "stars": 6015
           }
         },
         {
@@ -853,7 +853,7 @@
             "last_commit": "2025-07-17T23:10:44Z",
             "owner": "i2p",
             "repo": "i2p-rs",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:13.191Z",
+    "last_updated": "2026-08-13T08:54:59.044Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
