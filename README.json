@@ -187,10 +187,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:16:36Z",
+            "last_commit": "2026-08-13T09:03:13Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89885
+            "stars": 89891
           }
         },
         {
@@ -201,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:03:51Z",
+            "last_commit": "2026-08-13T13:03:35Z",
             "owner": "monero-project",
             "repo": "monero",
-            "stars": 10770
+            "stars": 10774
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-09T11:52:52Z",
             "owner": "majestrate",
             "repo": "XD",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -836,10 +836,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T08:37:22Z",
+            "last_commit": "2026-08-14T08:47:13Z",
             "owner": "arvidn",
             "repo": "libtorrent",
-            "stars": 6015
+            "stars": 6016
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:54:59.044Z",
+    "last_updated": "2026-08-14T08:47:49.486Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
