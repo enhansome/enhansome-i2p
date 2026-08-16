@@ -1,7 +1,7 @@
 # Awesome I2P with stars
 
 > A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things.
-> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 503 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,774 | 🐛 312 | 📅 2026-08-04 and other [Awesome Lists](https://github.com/topics/awesome).
+> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 504 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,785 | 🐛 312 | 📅 2026-08-04 and other [Awesome Lists](https://github.com/topics/awesome).
 >
 > I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISP's.
 >
@@ -41,12 +41,12 @@
 
 ### I2P
 
-* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,674 | 🐛 17 | 🌐 Java | 📅 2026-08-15 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
+* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,676 | 🐛 17 | 🌐 Java | 📅 2026-08-16 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
 * [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
 
-* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,169 | 🐛 162 | 🌐 C++ | 📅 2026-08-14 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
+* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,169 | 🐛 162 | 🌐 C++ | 📅 2026-08-16 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
 * [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
 ### Unfinished
@@ -70,8 +70,8 @@
 
 ### Cryptocurrencies
 
-* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,900 | 🐛 697 | 🌐 C++ | 📅 2026-08-15 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,900 | 🐛 697 | 🌐 C++ | 📅 2026-08-15.
-* [monero](https://github.com/monero-project/monero) ⭐ 10,775 | 🐛 692 | 🌐 C++ | 📅 2026-08-14 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,911 | 🐛 699 | 🌐 C++ | 📅 2026-08-15 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,911 | 🐛 699 | 🌐 C++ | 📅 2026-08-15.
+* [monero](https://github.com/monero-project/monero) ⭐ 10,778 | 🐛 701 | 🌐 C++ | 📅 2026-08-14 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) ⭐ 49 | 🐛 28 | 🌐 C++ | 📅 2026-07-12 - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [anoncoin](https://github.com/Anoncoin/anoncoin) ⭐ 42 | 🐛 15 | 🌐 C++ | 📅 2020-12-24 - Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.
 
@@ -112,7 +112,7 @@
 
 ### Tools
 
-* [i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) ⭐ 162 | 🐛 11 | 🌐 C++ | 📅 2026-05-22 - Some useful tools for I2P.
+* [i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) ⭐ 162 | 🐛 10 | 🌐 C++ | 📅 2026-05-22 - Some useful tools for I2P.
 * [pyreseeder](https://github.com/PurpleI2P/pyseeder) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-02-21 - Reseed data managment tools for I2P.
 * [transi2p](https://github.com/rbif/transi2p) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2024-03-09 - Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.
 * [i2p-tools](https://github.com/MDrollette/i2p-tools) ⚠️ Archived - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
@@ -132,7 +132,7 @@
 
 ### Web
 
-* [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) ⭐ 802 | 🐛 15 | 🌐 HTML | 📅 2025-03-08 - I2Pd browser bundle.
+* [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) ⭐ 803 | 🐛 15 | 🌐 HTML | 📅 2025-03-08 - I2Pd browser bundle.
 * [darkweb-everywhere](https://github.com/chris-barry/darkweb-everywhere) ⚠️ Archived - HTTPS Everywhere rulesets for hidden services and eepsites.
 * [i2pd-webui](https://github.com/l-n-s/i2pd-webui) ⭐ 25 | 🐛 0 | 🌐 CSS | 📅 2017-08-27 - Fancy I2Pd web user interface.
 * [i2pjump](https://github.com/robertfoss/i2pjump) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-02-24 - I2P jump service. A sort of slave DNS server for I2P.
@@ -151,7 +151,7 @@
 
 ### SAM
 
-* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,022 | 🐛 245 | 🌐 C++ | 📅 2026-08-14 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
+* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,023 | 🐛 247 | 🌐 C++ | 📅 2026-08-16 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
 * [i2p-rs](https://github.com/i2p/i2p-rs) ⭐ 106 | 🐛 6 | 🌐 Rust | 📅 2025-07-17 - Rust client library for interacting with I2P.
 * [node-i2p](https://github.com/redhog/node-i2p) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-29 - NodeJS api for communicating over I2P (SAMv3 client).
 * [i2plib](https://github.com/l-n-s/i2plib) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2019-02-05 - Python bindings for SAMv3.
@@ -216,4 +216,4 @@ Thanks to all [contributors](https://github.com/mikalv/awesome-i2p/graphs/contri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
