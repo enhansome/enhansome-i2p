@@ -187,10 +187,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T14:20:51Z",
+            "last_commit": "2026-08-17T11:04:07Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89923
+            "stars": 89932
           }
         },
         {
@@ -201,7 +201,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T15:22:23Z",
+            "last_commit": "2026-08-17T17:31:01Z",
             "owner": "monero-project",
             "repo": "monero",
             "stars": 10781
@@ -645,7 +645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T11:52:52Z",
+            "last_commit": "2026-08-17T23:27:10Z",
             "owner": "majestrate",
             "repo": "XD",
             "stars": 274
@@ -710,7 +710,7 @@
             "last_commit": "2017-07-26T17:08:06Z",
             "owner": "chris-barry",
             "repo": "darkweb-everywhere",
-            "stars": 175
+            "stars": 174
           }
         },
         {
@@ -836,10 +836,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T07:02:41Z",
+            "last_commit": "2026-08-18T05:52:42Z",
             "owner": "arvidn",
             "repo": "libtorrent",
-            "stars": 6026
+            "stars": 6029
           }
         },
         {
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:23:53.180Z",
+    "last_updated": "2026-08-18T08:06:49.204Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
