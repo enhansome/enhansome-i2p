@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-18T22:53:38Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 89941
+                "stars": 89945
               }
             },
             {
@@ -214,7 +214,7 @@
                 "archived": false,
                 "id": 19316619,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:52:36Z",
+                "last_commit": "2026-08-19T11:24:22Z",
                 "owner": "monero-project",
                 "repo": "monero",
                 "stars": 10781
@@ -875,7 +875,7 @@
                 "archived": false,
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-19T07:37:45Z",
+                "last_commit": "2026-08-19T11:04:32Z",
                 "owner": "arvidn",
                 "repo": "libtorrent",
                 "stars": 6030
@@ -1003,6 +1003,21 @@
             },
             {
               "node_type": "item",
+              "title": "haskell-network-anonymous-i2p",
+              "description": "Haskell API for I2P anonymous networking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30568650,
+                "language": "Haskell",
+                "last_commit": "2015-06-01T09:15:56Z",
+                "owner": "solatis",
+                "repo": "haskell-network-anonymous-i2p",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
               "title": "i2p.socket",
               "description": "drop in python socket module that uses I2P.",
               "children": [],
@@ -1014,21 +1029,6 @@
                 "owner": "majestrate",
                 "repo": "i2p.socket",
                 "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "haskell-network-anonymous-i2p",
-              "description": "Haskell API for I2P anonymous networking.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 30568650,
-                "language": "Haskell",
-                "last_commit": "2015-06-01T09:15:56Z",
-                "owner": "solatis",
-                "repo": "haskell-network-anonymous-i2p",
-                "stars": 16
               }
             },
             {
@@ -1153,8 +1153,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:15:55.497Z",
+    "last_updated": "2026-08-19T12:38:09.588Z",
     "original_repository": "mikalv/awesome-i2p",
+    "original_repository_id": 122127320,
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
     "enhanced_repository_description": null,

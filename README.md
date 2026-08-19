@@ -1,7 +1,7 @@
 # Awesome I2P with stars
 
 > A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things.
-> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 504 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,829 | 🐛 312 | 📅 2026-08-19 and other [Awesome Lists](https://github.com/topics/awesome).
+> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 504 | 🐛 3 | 📅 2023-09-03 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,828 | 🐛 312 | 📅 2026-08-19 and other [Awesome Lists](https://github.com/topics/awesome).
 >
 > I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISP's.
 >
@@ -41,7 +41,7 @@
 
 ### I2P
 
-* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,681 | 🐛 17 | 🌐 Java | 📅 2026-08-19 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
+* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,682 | 🐛 17 | 🌐 Java | 📅 2026-08-19 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
 * [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
@@ -70,8 +70,8 @@
 
 ### Cryptocurrencies
 
-* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,941 | 🐛 694 | 🌐 C++ | 📅 2026-08-18 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,941 | 🐛 694 | 🌐 C++ | 📅 2026-08-18.
-* [monero](https://github.com/monero-project/monero) ⭐ 10,781 | 🐛 688 | 🌐 C++ | 📅 2026-08-18 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,945 | 🐛 698 | 🌐 C++ | 📅 2026-08-18 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 89,945 | 🐛 698 | 🌐 C++ | 📅 2026-08-18.
+* [monero](https://github.com/monero-project/monero) ⭐ 10,781 | 🐛 684 | 🌐 C++ | 📅 2026-08-19 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) ⭐ 49 | 🐛 28 | 🌐 C++ | 📅 2026-07-12 - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [anoncoin](https://github.com/Anoncoin/anoncoin) ⭐ 42 | 🐛 15 | 🌐 C++ | 📅 2020-12-24 - Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.
 
@@ -160,8 +160,8 @@
 * [libsam3](https://github.com/i2p/libsam3) ⭐ 37 | 🐛 10 | 🌐 C | 📅 2026-01-14 - C SAMv3 library.
 * [i2p.rb](https://github.com/dryruby/i2p.rb) ⚠️ Archived - I2P.rb is a Ruby library for interacting with the I2P anonymity network. SAM and BOB.
 * [i2p-sam](https://github.com/diva-exchange/i2p-sam) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-02 - TypeScript. I2P SAM: peer-to-peer communication between applications over I2P.
+* [haskell-network-anonymous-i2p](https://github.com/solatis/haskell-network-anonymous-i2p) ⭐ 17 | 🐛 1 | 🌐 Haskell | 📅 2015-06-01 - Haskell API for I2P anonymous networking.
 * [i2p.socket](https://github.com/majestrate/i2p.socket) ⭐ 17 | 🐛 4 | 🌐 Python | 📅 2018-01-01 - drop in python socket module that uses I2P.
-* [haskell-network-anonymous-i2p](https://github.com/solatis/haskell-network-anonymous-i2p) ⭐ 16 | 🐛 1 | 🌐 Haskell | 📅 2015-06-01 - Haskell API for I2P anonymous networking.
 * [txi2p](https://github.com/str4d/txi2p) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2022-08-02 - I2P bindings for Twisted. SAM and BOB.
 * [i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2017-07-09 - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge.
 * [solitude](https://github.com/syvita/solitude) ⭐ 7 | 🐛 5 | 🌐 Rust | 📅 2022-03-12 - I2P SAMv3 library in Rust (WIP).
