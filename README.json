@@ -199,10 +199,10 @@
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-21T08:04:52Z",
+                "last_commit": "2026-08-21T12:40:27Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 89957
+                "stars": 89964
               }
             },
             {
@@ -217,7 +217,7 @@
                 "last_commit": "2026-08-20T15:10:16Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10786
+                "stars": 10787
               }
             },
             {
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:19:21.292Z",
+    "last_updated": "2026-08-22T07:59:57.100Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_id": 122127320,
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
