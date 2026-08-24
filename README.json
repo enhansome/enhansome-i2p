@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "I2P",
+              "description": "The first implementation. Written in Java. Android release of the I2P router: Google Play, F-Droid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4457770,
+                "language": "Java",
+                "last_commit": "2026-08-24T00:21:41Z",
+                "owner": "i2p",
+                "repo": "i2p.i2p",
+                "stars": 2684
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "I2P"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "I2Pd",
+              "description": "A C++ implementation of a I2P router. Android release of the I2Pd router: F-Droid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12522239,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:54:22Z",
+                "owner": "PurpleI2P",
+                "repo": "i2pd",
+                "stars": 4172
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "I2Pd"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ire",
               "description": "I2P router implementation in Rust.",
               "children": [],
@@ -199,10 +243,10 @@
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:21:14Z",
+                "last_commit": "2026-08-24T14:22:23Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 89991
+                "stars": 89998
               }
             },
             {
@@ -217,7 +261,7 @@
                 "last_commit": "2026-08-23T20:21:32Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10790
+                "stars": 10791
               }
             },
             {
@@ -875,7 +919,7 @@
                 "archived": false,
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:04:53Z",
+                "last_commit": "2026-08-24T10:24:02Z",
                 "owner": "arvidn",
                 "repo": "libtorrent",
                 "stars": 6037
@@ -1153,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:25:26.913Z",
+    "last_updated": "2026-08-24T14:31:13.245Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_id": 122127320,
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
