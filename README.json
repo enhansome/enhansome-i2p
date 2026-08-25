@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:21:41Z",
+                "last_commit": "2026-08-25T00:20:59Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2684
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:54:22Z",
+                "last_commit": "2026-08-25T01:29:08Z",
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4172
+                "stars": 4175
               }
             }
           ],
@@ -243,10 +243,10 @@
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:22:23Z",
+                "last_commit": "2026-08-24T21:54:07Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 89998
+                "stars": 90003
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-23T20:21:32Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10791
+                "stars": 10797
               }
             },
             {
@@ -919,7 +919,7 @@
                 "archived": false,
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-24T10:24:02Z",
+                "last_commit": "2026-08-25T00:26:29Z",
                 "owner": "arvidn",
                 "repo": "libtorrent",
                 "stars": 6037
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:13.245Z",
+    "last_updated": "2026-08-25T06:20:03.048Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_id": 122127320,
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
