@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-25T00:20:59Z",
+                "last_commit": "2026-08-26T00:21:53Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2684
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:29:08Z",
+                "last_commit": "2026-08-26T02:23:05Z",
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4175
+                "stars": 4176
               }
             }
           ],
@@ -243,10 +243,10 @@
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:54:07Z",
+                "last_commit": "2026-08-25T21:53:17Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90002
+                "stars": 90013
               }
             },
             {
@@ -258,10 +258,10 @@
                 "archived": false,
                 "id": 19316619,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:51:19Z",
+                "last_commit": "2026-08-26T07:35:06Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10797
+                "stars": 10802
               }
             },
             {
@@ -919,10 +919,10 @@
                 "archived": false,
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-25T08:07:30Z",
+                "last_commit": "2026-08-25T23:00:28Z",
                 "owner": "arvidn",
                 "repo": "libtorrent",
-                "stars": 6037
+                "stars": 6040
               }
             },
             {
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:22:02.537Z",
+    "last_updated": "2026-08-26T08:23:40.406Z",
     "original_repository": "mikalv/awesome-i2p",
     "original_repository_id": 122127320,
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
