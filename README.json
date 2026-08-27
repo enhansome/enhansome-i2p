@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-26T00:21:53Z",
+                "last_commit": "2026-08-27T01:53:03Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2684
+                "stars": 2685
               }
             }
           ],
@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-26T02:23:05Z",
+                "last_commit": "2026-08-27T01:43:14Z",
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
                 "stars": 4176
@@ -243,10 +243,10 @@
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:53:17Z",
+                "last_commit": "2026-08-27T11:17:53Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90013
+                "stars": 90023
               }
             },
             {
@@ -258,10 +258,10 @@
                 "archived": false,
                 "id": 19316619,
                 "language": "C++",
-                "last_commit": "2026-08-26T07:35:06Z",
+                "last_commit": "2026-08-26T18:10:14Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10802
+                "stars": 10803
               }
             },
             {
@@ -919,7 +919,7 @@
                 "archived": false,
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-25T23:00:28Z",
+                "last_commit": "2026-08-27T00:54:20Z",
                 "owner": "arvidn",
                 "repo": "libtorrent",
                 "stars": 6040
@@ -1197,9 +1197,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:23:40.406Z",
-    "original_repository": "mikalv/awesome-i2p",
-    "original_repository_id": 122127320,
+    "last_updated": "2026-08-27T11:46:49.287Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 122127320,
+      "language": null,
+      "last_commit": "2025-08-30T11:28:31Z",
+      "owner": "mikalv",
+      "repo": "awesome-i2p",
+      "stars": 289
+    },
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
     "enhanced_repository_description": null,
