@@ -54,11 +54,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T02:00:32Z",
-                "open_issues": 163,
+                "last_commit": "2026-08-29T11:44:16Z",
+                "open_issues": 162,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4179,
+                "stars": 4180,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -369,11 +369,11 @@
                 "id": 1181927,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-28T11:47:21Z",
-                "open_issues": 715,
+                "last_commit": "2026-08-29T08:55:04Z",
+                "open_issues": 710,
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90032,
+                "stars": 90039,
                 "topics": [
                   "bitcoin",
                   "c-plus-plus",
@@ -1425,11 +1425,11 @@
                 "id": 36781769,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T22:22:19Z",
-                "open_issues": 254,
+                "last_commit": "2026-08-29T10:07:25Z",
+                "open_issues": 249,
                 "owner": "arvidn",
                 "repo": "libtorrent",
-                "stars": 6044,
+                "stars": 6045,
                 "topics": [
                   "bittorrent",
                   "cpp",
@@ -1865,7 +1865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:31.356Z",
+    "last_updated": "2026-08-29T13:21:49.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.",
