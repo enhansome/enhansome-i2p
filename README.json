@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. ",
+                "homepage": "https://i2p.net",
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-28T03:16:30Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:44:02Z",
+                "open_issues": 16,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2685
+                "stars": 2686,
+                "topics": [
+                  "anonymity",
+                  "crypto",
+                  "i2p",
+                  "java",
+                  "monotone",
+                  "network",
+                  "p2p",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -35,12 +49,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 🛡 I2P: End-to-End encrypted and anonymous Internet",
+                "homepage": "https://i2pd.website",
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-28T18:17:40Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T02:00:32Z",
+                "open_issues": 163,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4179
+                "stars": 4179,
+                "topics": [
+                  "anonymity",
+                  "c-plus-plus",
+                  "communication",
+                  "cryptography",
+                  "i2p",
+                  "i2p-client",
+                  "openssl",
+                  "p2p",
+                  "privacy",
+                  "security",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -58,12 +89,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P router implementation in Rust",
+                "homepage": null,
                 "id": 107030209,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-04T03:01:10Z",
+                "open_issues": 19,
                 "owner": "str4d",
                 "repo": "ire",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "i2p",
+                  "i2p-network",
+                  "i2p-router",
+                  "onion-routing",
+                  "privacy",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -74,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure Go implementation of the I2P router",
+                "homepage": null,
                 "id": 40199156,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-03-06T22:32:08Z",
+                "open_issues": 12,
                 "owner": "hkparker",
                 "repo": "go-i2p",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -90,12 +138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P router in C#",
+                "homepage": null,
                 "id": 91870835,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-05-30T19:20:09Z",
+                "open_issues": 3,
                 "owner": "PeterZander",
                 "repo": "i2p-cs",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cryptography",
+                  "csharp",
+                  "i2p",
+                  "network",
+                  "p2p"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -106,12 +165,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust implementation of the i2p client/server/router protocols",
+                "homepage": "https://chrisbilger.com/ri2p",
                 "id": 443594484,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2023-08-21T10:14:16Z",
+                "open_issues": 4,
                 "owner": "ChristopherBilg",
                 "repo": "ri2p",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "anonymity",
+                  "cryptography",
+                  "distributed",
+                  "encryption",
+                  "i2p",
+                  "networking",
+                  "p2p-clients",
+                  "p2p-http",
+                  "p2p-network",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -122,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "i2p c++ implementation",
+                "homepage": "http://git.repo.i2p.us/w/i2pcpp.git",
                 "id": 13013649,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2015-02-21T22:50:48Z",
+                "open_issues": 0,
                 "owner": "majestrate",
                 "repo": "i2pcpp",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -138,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P Daemon written in Rust",
+                "homepage": null,
                 "id": 83752763,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2017-04-07T03:34:20Z",
+                "open_issues": 0,
                 "owner": "jacklund",
                 "repo": "i2pd-rs",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -154,12 +239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "i2p router implementation in C11",
+                "homepage": null,
                 "id": 93652119,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-11-14T13:26:01Z",
+                "open_issues": 0,
                 "owner": "i2p-lite",
                 "repo": "i2p-lite",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -183,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sets Transparent proxy tunnel through Tor, I2P, Privoxy, Polipo and modify DNS; Include Anonymizing Relay Monitor (arm), macchanger and wipe (Cleans ram/cache & swap-space) features, ID spoofing has never been so easy.",
+                "homepage": null,
                 "id": 69129109,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-09-26T08:40:13Z",
+                "open_issues": 21,
                 "owner": "HiroshiManRise",
                 "repo": "anonym8",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -199,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P Bootstrap script to automate much of the router setup process on remote servers.",
+                "homepage": null,
                 "id": 29066304,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-22T21:16:12Z",
+                "open_issues": 1,
                 "owner": "TheTinHat",
                 "repo": "i2pbootstrap",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -215,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chef cookbook for i2p-specific config",
+                "homepage": null,
                 "id": 77079014,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2016-12-21T19:17:26Z",
+                "open_issues": 0,
                 "owner": "i2phosts",
                 "repo": "cookbook-nginx-i2p",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -231,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic I2P Hosts synchronization I2P to Internet :-)",
+                "homepage": null,
                 "id": 122076023,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-03-07T12:43:26Z",
+                "open_issues": 0,
                 "owner": "mikalv",
                 "repo": "i2phosts",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -254,12 +364,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Core integration/staging tree",
+                "homepage": "https://bitcoincore.org/en/download",
                 "id": 1181927,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:47:21Z",
+                "open_issues": 715,
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90024
+                "stars": 90032,
+                "topics": [
+                  "bitcoin",
+                  "c-plus-plus",
+                  "cryptocurrency",
+                  "cryptography",
+                  "p2p"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -270,12 +391,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monero: the secure, private, untraceable cryptocurrency",
+                "homepage": "https://getmonero.org",
                 "id": 19316619,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:58:27Z",
+                "open_issues": 687,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10805
+                "stars": 10805,
+                "topics": [
+                  "blockchain",
+                  "c-plus-plus",
+                  "cmake",
+                  "cryptocurrency",
+                  "cryptography",
+                  "cryptonote",
+                  "monero",
+                  "p2p",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -286,12 +423,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GOST R 34.11-2012 algo, GOST R 34.10-2012 signature",
+                "homepage": "http://gostco.in",
                 "id": 85846883,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-12T11:56:52Z",
+                "open_issues": 28,
                 "owner": "GOSTSec",
                 "repo": "gostcoin",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "cryptocurrency",
+                  "gost3411-2012",
+                  "i2p",
+                  "mining",
+                  "signature"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -302,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.",
+                "homepage": "https://anoncoin.net",
                 "id": 108697792,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-12-24T15:07:28Z",
+                "open_issues": 15,
                 "owner": "Anoncoin",
                 "repo": "anoncoin",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -325,12 +478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockefile and some scripts to run i2pd in a container",
+                "homepage": null,
                 "id": 70130737,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-11-20T21:41:42Z",
+                "open_issues": 0,
                 "owner": "hexaedron",
                 "repo": "i2pd-docker",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -341,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java I2P router in Docker",
+                "homepage": null,
                 "id": 77629990,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2021-01-30T23:52:05Z",
+                "open_issues": 3,
                 "owner": "hkparker",
                 "repo": "i2p-docker",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -364,12 +527,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "I2P-Bote is a serverless, encrypted e-mail application.",
+                "homepage": "https://i2pbote.xyz",
                 "id": 7612313,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-17T02:31:25Z",
+                "open_issues": 68,
                 "owner": "i2p",
                 "repo": "i2p.i2p-bote",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "dht",
+                  "email",
+                  "i2p",
+                  "i2p-bote",
+                  "java",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -380,12 +555,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "brain dead simple mail",
+                "homepage": null,
                 "id": 59360495,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-03T14:23:37Z",
+                "open_issues": 3,
                 "owner": "majestrate",
                 "repo": "bdsmail",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "ebin-logo",
+                  "i2p",
+                  "mail",
+                  "mail-server",
+                  "pop3",
+                  "smtp"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -396,12 +583,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone C++ client for I2P/Bote (server-less encrypted KademliaDHT-based email protocol).",
+                "homepage": "https://pboted.readthedocs.io/",
                 "id": 209394926,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-07-08T11:44:29Z",
+                "open_issues": 2,
                 "owner": "PurpleBote",
                 "repo": "pboted",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cryptography",
+                  "dht",
+                  "email",
+                  "i2p",
+                  "i2p-bote",
+                  "i2p-sam",
+                  "i2p-samv3",
+                  "pop3",
+                  "privacy",
+                  "smtp"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -412,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77620749,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-10-26T13:58:40Z",
+                "open_issues": 0,
                 "owner": "majestrate",
                 "repo": "i2pboted",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -435,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Syndie is an open source system for operating distributed forums, offering a secure and consistent interface to various anonymous and non-anonymous content networks.",
+                "homepage": "http://syndie.i2p2.de/",
                 "id": 7611470,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-17T23:17:05Z",
+                "open_issues": 2,
                 "owner": "i2p",
                 "repo": "i2p.syndie",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -451,12 +666,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, single-user, self-hosted blogging system for I2P.",
+                "homepage": null,
                 "id": 355719466,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-01T20:59:09Z",
+                "open_issues": 4,
                 "owner": "eyedeekay",
                 "repo": "railroad",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "anonymous",
+                  "blog",
+                  "i2p",
+                  "i2pd",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -467,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "p2p forum on top of i2p",
+                "homepage": "http://redhog.org/cliqueclique",
                 "id": 1211343,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-04-06T21:07:16Z",
+                "open_issues": 0,
                 "owner": "redhog",
                 "repo": "cliqueclique",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -483,12 +714,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI, network, and database backend for syndie-gui",
+                "homepage": null,
                 "id": 99140958,
                 "language": "Go",
+                "license": "WTFPL",
                 "last_commit": "2023-02-25T01:57:16Z",
+                "open_issues": 8,
                 "owner": "kpetku",
                 "repo": "syndie-core",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "go",
+                  "i2p",
+                  "syndie"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -499,12 +739,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syndie GUI frontend for syndie-core",
+                "homepage": null,
                 "id": 280993069,
                 "language": "Go",
+                "license": "WTFPL",
                 "last_commit": "2023-03-06T23:40:28Z",
+                "open_issues": 7,
                 "owner": "kpetku",
                 "repo": "syndie-gui",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "go",
+                  "i2p",
+                  "syndie"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -522,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MuWire file sharing client for I2P",
+                "homepage": null,
                 "id": 139442322,
                 "language": "Groovy",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-01T18:39:10Z",
+                "open_issues": 53,
                 "owner": "zlatinb",
                 "repo": "muwire",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -538,12 +792,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P-based high available shared filesystem server (doesn't work, yet)",
+                "homepage": null,
                 "id": 137371846,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2018-06-19T09:23:45Z",
+                "open_issues": 0,
                 "owner": "i2pfs",
                 "repo": "i2pfsd",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cloud",
+                  "cluster",
+                  "encryption",
+                  "filesystem",
+                  "fs",
+                  "i2p",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -561,12 +828,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.",
+                "homepage": null,
                 "id": 76740528,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2020-05-24T16:37:16Z",
+                "open_issues": 82,
                 "owner": "tattwamasii2p",
                 "repo": "i2pchat",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "anonymity",
+                  "i2p",
+                  "i2p-chat",
+                  "instant-messaging",
+                  "messenger",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -577,12 +857,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An end to end encrypted Messenger that uses the signal protocol over the I2P network",
+                "homepage": null,
                 "id": 91199788,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-26T19:04:59Z",
+                "open_issues": 4,
                 "owner": "MaladaN",
                 "repo": "MaladaN-Messenger-Client",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "encryption",
+                  "i2p",
+                  "signal-protocol"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -593,12 +882,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MaladaN Messenger Server end, for messaging using the signal protocol through I2P",
+                "homepage": null,
                 "id": 91209550,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-26T19:07:25Z",
+                "open_issues": 0,
                 "owner": "MaladaN",
                 "repo": "MaladaN-Messenger-Server",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "encryption",
+                  "i2p",
+                  "signal-protocol"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -616,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some useful tools for I2P",
+                "homepage": null,
                 "id": 68387966,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-22T14:40:30Z",
+                "open_issues": 10,
                 "owner": "PurpleI2P",
                 "repo": "i2pd-tools",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -632,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reseed data management tools for I2P",
+                "homepage": null,
                 "id": 66955957,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-21T17:00:23Z",
+                "open_issues": 0,
                 "owner": "PurpleI2P",
                 "repo": "pyseeder",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -648,12 +956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.",
+                "homepage": null,
                 "id": 50308013,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-09T16:13:21Z",
+                "open_issues": 3,
                 "owner": "rbif",
                 "repo": "transi2p",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -664,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Standalone I2P reseed server",
+                "homepage": null,
                 "id": 23973583,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-06-27T23:49:17Z",
+                "open_issues": 1,
                 "owner": "MDrollette",
                 "repo": "i2p-tools",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -680,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assorted I2P tools and scripts",
+                "homepage": null,
                 "id": 18161422,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-05-07T19:45:31Z",
+                "open_issues": 1,
                 "owner": "majestrate",
                 "repo": "i2p-tools",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -696,12 +1019,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "I2P monitor and control application for Mac OS X",
+                "homepage": null,
                 "id": 19677917,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-07-10T13:06:14Z",
+                "open_issues": 2,
                 "owner": "miximka",
                 "repo": "I2PMonitor",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "i2p",
+                  "macos",
+                  "objective-c"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -712,12 +1044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P Reseeder written in Python (WSGI)",
+                "homepage": null,
                 "id": 15892661,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2015-03-23T18:30:15Z",
+                "open_issues": 2,
                 "owner": "torbjo",
                 "repo": "i2p-reseeder",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -728,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go terminal application for talking to i2pcontrol. Sorry it took me so long, muttonchops and preternaturally young-looking German dude. Also sorry I lost your e-mails.",
+                "homepage": null,
                 "id": 232606472,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-07-08T19:03:07Z",
+                "open_issues": 1,
                 "owner": "eyedeekay",
                 "repo": "i2p-control",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -751,12 +1093,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "meme bittorrent client",
+                "homepage": "https://xd-torrent.github.io/",
                 "id": 74511733,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-20T21:44:02Z",
+                "open_issues": 28,
                 "owner": "majestrate",
                 "repo": "XD",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "anonymous",
+                  "bittorrent",
+                  "ebin-logo",
+                  "i2p",
+                  "lokinet",
+                  "torrent",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -767,12 +1122,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anonymous torrent client Transmission-I2P [UNMAINTAINED]",
+                "homepage": null,
                 "id": 65684584,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-06T17:24:23Z",
+                "open_issues": 1,
                 "owner": "l-n-s",
                 "repo": "transmission-i2p",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "encryption",
+                  "filesharing",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -783,12 +1147,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Will it track?",
+                "homepage": null,
                 "id": 225251947,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-08-29T05:00:46Z",
+                "open_issues": 0,
                 "owner": "eyedeekay",
                 "repo": "samtracker",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "biglybt",
+                  "bittorrent",
+                  "i2p",
+                  "p2p",
+                  "snark"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -806,12 +1181,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "i2pd browser bundle",
+                "homepage": null,
                 "id": 75934903,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-03-08T18:39:21Z",
+                "open_issues": 15,
                 "owner": "PurpleI2P",
                 "repo": "i2pdbrowser",
-                "stars": 804
+                "stars": 804,
+                "topics": [
+                  "bundle",
+                  "crypto",
+                  "cryptography",
+                  "firefox",
+                  "i2p",
+                  "i2pd",
+                  "portable",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -822,12 +1212,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HTTPS Everywhere rulesets for hidden services and eepsites.",
+                "homepage": "http://onion.im",
                 "id": 17552459,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-26T17:08:06Z",
+                "open_issues": 7,
                 "owner": "chris-barry",
                 "repo": "darkweb-everywhere",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -838,12 +1233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fancy i2pd web user interface",
+                "homepage": null,
                 "id": 40037204,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-08-27T22:46:03Z",
+                "open_issues": 0,
                 "owner": "l-n-s",
                 "repo": "i2pd-webui",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -854,12 +1254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P jump service. A sort of slave DNS server for I2P.",
+                "homepage": "geti2p.net",
                 "id": 7017953,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2022-02-24T14:58:40Z",
+                "open_issues": 0,
                 "owner": "robertfoss",
                 "repo": "i2pjump",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -870,12 +1275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hostnames registration application for I2P",
+                "homepage": null,
                 "id": 76889069,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2022-07-25T14:50:15Z",
+                "open_issues": 0,
                 "owner": "i2phosts",
                 "repo": "py-i2phosts",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -886,12 +1296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web portion of i2p.to, an I2P inProxy",
+                "homepage": "https://github.com/hilbix/i2p.to-src/",
                 "id": 4767540,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2012-11-22T08:14:52Z",
+                "open_issues": 0,
                 "owner": "hilbix",
                 "repo": "i2p.to-web",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -902,12 +1317,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight anonymous browser that works via I2P. Ideal for those who want quick and easy access to I2P without heavy add-ons.",
+                "homepage": "https://specterbrowser.github.io/specter-site/",
                 "id": 1032513488,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2025-08-08T16:50:28Z",
+                "open_issues": 0,
                 "owner": "SpecterBrowser",
                 "repo": "specter",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "anonymity",
+                  "anonymous-browsing",
+                  "browser",
+                  "darknet",
+                  "i2p",
+                  "i2p-browser",
+                  "i2p-network",
+                  "i2pd"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -931,12 +1360,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Retired] I2P.rb is a Ruby library for interacting with the I2P anonymity network.",
+                "homepage": "http://cypherpunk.rubyforge.org/i2p/",
                 "id": 814048,
                 "language": "Ruby",
+                "license": "Unlicense",
                 "last_commit": "2010-11-26T05:19:31Z",
+                "open_issues": 0,
                 "owner": "dryruby",
                 "repo": "i2p.rb",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "obsolete",
+                  "ruby",
+                  "rubygems",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -947,12 +1386,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P bindings for Twisted.",
+                "homepage": null,
                 "id": 13369224,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-02T17:46:50Z",
+                "open_issues": 3,
                 "owner": "str4d",
                 "repo": "txi2p",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "i2p",
+                  "plugin",
+                  "python",
+                  "twisted",
+                  "twisted-library"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -970,12 +1420,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an efficient feature complete C++ bittorrent implementation",
+                "homepage": "http://libtorrent.org",
                 "id": 36781769,
                 "language": "C++",
-                "last_commit": "2026-08-28T16:00:25Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:22:19Z",
+                "open_issues": 254,
                 "owner": "arvidn",
                 "repo": "libtorrent",
-                "stars": 6043
+                "stars": 6044,
+                "topics": [
+                  "bittorrent",
+                  "cpp",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -986,12 +1445,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust client library for interacting with I2P",
+                "homepage": null,
                 "id": 86960645,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-17T23:10:44Z",
+                "open_issues": 6,
                 "owner": "i2p",
                 "repo": "i2p-rs",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "i2p",
+                  "rust",
+                  "rust-library"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1002,12 +1470,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeJS api for communicating over i2p",
+                "homepage": "https://www.npmjs.com/package/i2p",
                 "id": 36000456,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-01-29T09:48:34Z",
+                "open_issues": 4,
                 "owner": "redhog",
                 "repo": "node-i2p",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "i2p",
+                  "node-i2p",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1018,12 +1495,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐍 i2plib: A modern asynchronous library for building I2P applications",
+                "homepage": "https://i2plib.readthedocs.io/en/latest/",
                 "id": 147365029,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-05T05:05:45Z",
+                "open_issues": 1,
                 "owner": "l-n-s",
                 "repo": "i2plib",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "asyncio",
+                  "i2p",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1034,12 +1520,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ SAMv3 library",
+                "homepage": null,
                 "id": 86908613,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-07-17T23:10:22Z",
+                "open_issues": 4,
                 "owner": "i2p",
                 "repo": "i2psam",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "cpp",
+                  "cpp-library",
+                  "i2p"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1050,12 +1545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A go library for using the I2P Simple Anonymous Messaging (SAM version 3.0) bridge",
+                "homepage": null,
                 "id": 16667031,
                 "language": "Go",
+                "license": "GPL-2.0",
                 "last_commit": "2019-12-23T11:08:48Z",
+                "open_issues": 2,
                 "owner": "cryptix",
                 "repo": "goSam",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1066,12 +1566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C SAMv3 library",
+                "homepage": "https://geti2p.net/en/docs/api/samv3",
                 "id": 76703551,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-01-14T01:30:50Z",
+                "open_issues": 10,
                 "owner": "i2p",
                 "repo": "libsam3",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1082,12 +1587,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Retired] I2P.rb is a Ruby library for interacting with the I2P anonymity network.",
+                "homepage": "http://cypherpunk.rubyforge.org/i2p/",
                 "id": 814048,
                 "language": "Ruby",
+                "license": "Unlicense",
                 "last_commit": "2010-11-26T05:19:31Z",
+                "open_issues": 0,
                 "owner": "dryruby",
                 "repo": "i2p.rb",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "obsolete",
+                  "ruby",
+                  "rubygems",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1098,12 +1613,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P SAM: peer-to-peer communication between applications over I2P",
+                "homepage": null,
                 "id": 428688668,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-02T17:27:41Z",
+                "open_issues": 2,
                 "owner": "diva-exchange",
                 "repo": "i2p-sam",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "crypto",
+                  "diva",
+                  "i2p",
+                  "p2p",
+                  "peer-to-peer",
+                  "sam"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1114,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell API for I2P anonymous networking",
+                "homepage": null,
                 "id": 30568650,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2015-06-01T09:15:56Z",
+                "open_issues": 1,
                 "owner": "solatis",
                 "repo": "haskell-network-anonymous-i2p",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1130,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "drop in python socket module that uses i2p",
+                "homepage": null,
                 "id": 52085529,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-01T21:48:56Z",
+                "open_issues": 4,
                 "owner": "majestrate",
                 "repo": "i2p.socket",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1146,12 +1683,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P bindings for Twisted.",
+                "homepage": null,
                 "id": 13369224,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-02T17:46:50Z",
+                "open_issues": 3,
                 "owner": "str4d",
                 "repo": "txi2p",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "i2p",
+                  "plugin",
+                  "python",
+                  "twisted",
+                  "twisted-library"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1162,12 +1710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge",
+                "homepage": null,
                 "id": 77951981,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-09T17:21:12Z",
+                "open_issues": 0,
                 "owner": "SamuelFisher",
                 "repo": "i2pdotnet",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "i2p"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1178,12 +1735,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P SAMv3 library in Rust (WIP)",
+                "homepage": null,
                 "id": 440672368,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-03-12T17:16:46Z",
+                "open_issues": 5,
                 "owner": "syvita",
                 "repo": "solitude",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "i2p",
+                  "rust",
+                  "samv3"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1194,12 +1760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# library implementation of the I2P SAM v3.3 protocol",
+                "homepage": null,
                 "id": 524255252,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-16T14:35:15Z",
+                "open_issues": 0,
                 "owner": "MohA39",
                 "repo": "I2PSharp",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1210,12 +1781,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic SAMv3 implementation for I2P in PHP",
+                "homepage": null,
                 "id": 198860905,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-02-12T19:27:14Z",
+                "open_issues": 0,
                 "owner": "theimpossibleastronaut",
                 "repo": "php-sam",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "i2p",
+                  "i2pd",
+                  "library",
+                  "php",
+                  "php7",
+                  "sam"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -1233,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "libtorrent modified to download torrents anonymously",
+                "homepage": null,
                 "id": 65928123,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-08-17T17:36:04Z",
+                "open_issues": 0,
                 "owner": "l-n-s",
                 "repo": "libtorrent-i2p",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             },
@@ -1249,12 +1837,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syndie library written in Go (please see also: syndie-gui or syndie-core)",
+                "homepage": null,
                 "id": 68426644,
                 "language": "Go",
+                "license": "WTFPL",
                 "last_commit": "2022-08-13T16:04:51Z",
+                "open_issues": 2,
                 "owner": "kpetku",
                 "repo": "libsyndie",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "go",
+                  "i2p",
+                  "syndie"
+                ]
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
             }
@@ -1268,15 +1865,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:34.418Z",
+    "last_updated": "2026-08-29T04:46:31.356Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.",
+      "homepage": null,
       "id": 122127320,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-08-30T11:28:31Z",
+      "open_issues": 1,
       "owner": "mikalv",
       "repo": "awesome-i2p",
-      "stars": 289
+      "stars": 289,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesomeness",
+        "darknet",
+        "darkweb",
+        "i2p",
+        "i2pd",
+        "mix-network",
+        "network",
+        "privacy"
+      ]
     },
     "original_repository_sha": "b30e8a043857df2fc4bd57bb6ca361b42a937962",
     "enhanced_repository": "enhansome/enhansome-i2p",
