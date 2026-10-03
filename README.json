@@ -54,7 +54,7 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T22:21:48Z",
+                "last_commit": "2026-10-03T12:00:32Z",
                 "open_issues": 162,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
@@ -369,11 +369,11 @@
                 "id": 1181927,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:42:03Z",
+                "last_commit": "2026-10-03T10:10:51Z",
                 "open_issues": 764,
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90299,
+                "stars": 90300,
                 "topics": [
                   "bitcoin",
                   "c-plus-plus",
@@ -397,10 +397,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T19:55:51Z",
-                "open_issues": 603,
+                "open_issues": 605,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10897,
+                "stars": 10898,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1425,7 +1425,7 @@
                 "id": 36781769,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T23:51:25Z",
+                "last_commit": "2026-10-03T07:34:57Z",
                 "open_issues": 262,
                 "owner": "arvidn",
                 "repo": "libtorrent",
@@ -1865,7 +1865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:34.593Z",
+    "last_updated": "2026-10-03T12:44:01.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.",
