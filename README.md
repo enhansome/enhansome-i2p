@@ -1,7 +1,7 @@
 # Awesome I2P with stars
 
 > A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things.
-> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 515 | 🐛 1 | 📅 2026-09-23 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,962 | 🐛 314 | 📅 2026-10-11 and other [Awesome Lists](https://github.com/topics/awesome).
+> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 515 | 🐛 1 | 📅 2026-09-23 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,984 | 🐛 314 | 📅 2026-10-11 and other [Awesome Lists](https://github.com/topics/awesome).
 >
 > I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISP's.
 >
@@ -41,12 +41,12 @@
 
 ### I2P
 
-* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,738 | 🐛 17 | 🌐 Java | 📅 2026-10-20 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
+* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,739 | 🐛 17 | 🌐 Java | 📅 2026-10-20 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
 * [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
 
-* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,243 | 🐛 162 | 🌐 C++ | 📅 2026-10-23 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
+* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,245 | 🐛 162 | 🌐 C++ | 📅 2026-10-24 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
 * [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
 ### Unfinished
@@ -70,8 +70,8 @@
 
 ### Cryptocurrencies
 
-* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 90,470 | 🐛 776 | 🌐 C++ | 📅 2026-10-23 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 90,470 | 🐛 776 | 🌐 C++ | 📅 2026-10-23.
-* [monero](https://github.com/monero-project/monero) ⭐ 10,948 | 🐛 610 | 🌐 C++ | 📅 2026-10-19 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 90,467 | 🐛 798 | 🌐 C++ | 📅 2026-10-23 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 90,467 | 🐛 798 | 🌐 C++ | 📅 2026-10-23.
+* [monero](https://github.com/monero-project/monero) ⭐ 10,947 | 🐛 582 | 🌐 C++ | 📅 2026-10-24 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) ⭐ 50 | 🐛 28 | 🌐 C++ | 📅 2026-07-12 - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [anoncoin](https://github.com/Anoncoin/anoncoin) ⭐ 42 | 🐛 15 | 🌐 C++ | 📅 2020-12-24 - Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.
 
@@ -126,13 +126,13 @@
 
 ### Torrents
 
-* [XD](https://github.com/majestrate/XD) ⭐ 278 | 🐛 29 | 🌐 Go | 📅 2026-08-30 - BitTorrent Client written in Go.
+* [XD](https://github.com/majestrate/XD) ⭐ 277 | 🐛 29 | 🌐 Go | 📅 2026-08-30 - BitTorrent Client written in Go.
 * [Transmission-I2P](https://github.com/l-n-s/transmission-i2p) ⭐ 43 | 🐛 1 | 🌐 C | 📅 2018-01-06 - Anonymous torrent client Transmission-I2P.
 * [samtracker](https://github.com/eyedeekay/samtracker) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2022-08-29 - HTTP Bittorrent tracker with automatic port-forwarding to I2P.
 
 ### Web
 
-* [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) ⭐ 803 | 🐛 15 | 🌐 HTML | 📅 2025-03-08 - I2Pd browser bundle.
+* [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) ⭐ 804 | 🐛 15 | 🌐 HTML | 📅 2025-03-08 - I2Pd browser bundle.
 * [darkweb-everywhere](https://github.com/chris-barry/darkweb-everywhere) ⚠️ Archived - HTTPS Everywhere rulesets for hidden services and eepsites.
 * [i2pd-webui](https://github.com/l-n-s/i2pd-webui) ⭐ 24 | 🐛 0 | 🌐 CSS | 📅 2017-08-27 - Fancy I2Pd web user interface.
 * [i2pjump](https://github.com/robertfoss/i2pjump) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-02-24 - I2P jump service. A sort of slave DNS server for I2P.
@@ -151,7 +151,7 @@
 
 ### SAM
 
-* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,107 | 🐛 268 | 🌐 C++ | 📅 2026-10-23 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
+* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,108 | 🐛 265 | 🌐 C++ | 📅 2026-10-23 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
 * [i2p-rs](https://github.com/i2p/i2p-rs) ⭐ 106 | 🐛 6 | 🌐 Rust | 📅 2025-07-17 - Rust client library for interacting with I2P.
 * [node-i2p](https://github.com/redhog/node-i2p) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-29 - NodeJS api for communicating over I2P (SAMv3 client).
 * [i2psam](https://github.com/i2p/i2psam) ⭐ 43 | 🐛 4 | 🌐 C++ | 📅 2025-07-17 - C++ SAMv3 library.
@@ -216,4 +216,4 @@ Thanks to all [contributors](https://github.com/mikalv/awesome-i2p/graphs/contri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
