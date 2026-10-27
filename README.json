@@ -17,11 +17,11 @@
                 "id": 4457770,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T19:53:54Z",
+                "last_commit": "2026-10-27T00:46:58Z",
                 "open_issues": 17,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2739,
+                "stars": 2740,
                 "topics": [
                   "anonymity",
                   "crypto",
@@ -54,8 +54,8 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T14:29:14Z",
-                "open_issues": 163,
+                "last_commit": "2026-10-27T10:50:10Z",
+                "open_issues": 161,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
                 "stars": 4246,
@@ -369,11 +369,11 @@
                 "id": 1181927,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-26T14:23:26Z",
-                "open_issues": 794,
+                "last_commit": "2026-10-27T13:16:03Z",
+                "open_issues": 791,
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90499,
+                "stars": 90514,
                 "topics": [
                   "bitcoin",
                   "c-plus-plus",
@@ -400,7 +400,7 @@
                 "open_issues": 580,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10951,
+                "stars": 10952,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -564,7 +564,7 @@
                 "open_issues": 3,
                 "owner": "majestrate",
                 "repo": "bdsmail",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "ebin-logo",
                   "i2p",
@@ -675,7 +675,7 @@
                 "open_issues": 4,
                 "owner": "eyedeekay",
                 "repo": "railroad",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "anonymous",
                   "blog",
@@ -702,7 +702,7 @@
                 "open_issues": 0,
                 "owner": "redhog",
                 "repo": "cliqueclique",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 29,
                 "owner": "majestrate",
                 "repo": "XD",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "anonymous",
                   "bittorrent",
@@ -1425,11 +1425,11 @@
                 "id": 36781769,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T07:18:55Z",
-                "open_issues": 271,
+                "last_commit": "2026-10-27T12:14:33Z",
+                "open_issues": 277,
                 "owner": "arvidn",
                 "repo": "libtorrent",
-                "stars": 6113,
+                "stars": 6115,
                 "topics": [
                   "bittorrent",
                   "cpp",
@@ -1865,7 +1865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:33:33.954Z",
+    "last_updated": "2026-10-27T13:34:13.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.",
@@ -1877,7 +1877,7 @@
       "open_issues": 2,
       "owner": "mikalv",
       "repo": "awesome-i2p",
-      "stars": 291,
+      "stars": 292,
       "topics": [
         "awesome",
         "awesome-list",

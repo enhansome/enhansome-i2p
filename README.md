@@ -1,7 +1,7 @@
 # Awesome I2P with stars
 
 > A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things.
-> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 518 | 🐛 1 | 📅 2026-09-23 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,042 | 🐛 313 | 📅 2026-10-26 and other [Awesome Lists](https://github.com/topics/awesome).
+> Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 518 | 🐛 1 | 📅 2026-09-23 and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,058 | 🐛 313 | 📅 2026-10-26 and other [Awesome Lists](https://github.com/topics/awesome).
 >
 > I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISP's.
 >
@@ -41,12 +41,12 @@
 
 ### I2P
 
-* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,739 | 🐛 17 | 🌐 Java | 📅 2026-10-24 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
+* [I2P](https://github.com/i2p/i2p.i2p) ⭐ 2,740 | 🐛 17 | 🌐 Java | 📅 2026-10-27 - The first implementation. Written in Java. Android release of the I2P router: [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android), [F-Droid](https://f-droid.org/packages/net.i2p.android.router/).
 * [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
 
-* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,246 | 🐛 163 | 🌐 C++ | 📅 2026-10-26 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
+* [I2Pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,246 | 🐛 161 | 🌐 C++ | 📅 2026-10-27 - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
 * [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
 ### Unfinished
@@ -70,8 +70,8 @@
 
 ### Cryptocurrencies
 
-* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 90,499 | 🐛 794 | 🌐 C++ | 📅 2026-10-26 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 90,499 | 🐛 794 | 🌐 C++ | 📅 2026-10-26.
-* [monero](https://github.com/monero-project/monero) ⭐ 10,951 | 🐛 580 | 🌐 C++ | 📅 2026-10-25 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 90,514 | 🐛 791 | 🌐 C++ | 📅 2026-10-27 - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md) ⭐ 90,514 | 🐛 791 | 🌐 C++ | 📅 2026-10-27.
+* [monero](https://github.com/monero-project/monero) ⭐ 10,952 | 🐛 580 | 🌐 C++ | 📅 2026-10-25 - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) ⭐ 50 | 🐛 28 | 🌐 C++ | 📅 2026-07-12 - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [anoncoin](https://github.com/Anoncoin/anoncoin) ⭐ 42 | 🐛 15 | 🌐 C++ | 📅 2020-12-24 - Anoncoin (ANC) is a peer-to-peer digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first and only currency to have built-in support for both the I2P darknet and Tor network that conceal the IP address of the user.
 
@@ -86,15 +86,15 @@
 ### Email
 
 * [i2p.i2p-bote](https://github.com/i2p/i2p.i2p-bote) ⚠️ Archived - I2P-Bote is a plugin for I2P that allows users to send and receive emails while preserving privacy. It does not need a mail server because emails are stored in a distributed hash table. They are automatically encrypted and digitally signed, which ensures no one but the intended recipient can read the email, and third parties cannot forge them.
-* [bdsmail](https://github.com/majestrate/bdsmail) ⭐ 39 | 🐛 3 | 🌐 Go | 📅 2024-06-03 - Brain Dead Simple Mail Server.
+* [bdsmail](https://github.com/majestrate/bdsmail) ⭐ 40 | 🐛 3 | 🌐 Go | 📅 2024-06-03 - Brain Dead Simple Mail Server.
 * [pboted](https://github.com/PurpleBote/pboted) ⭐ 24 | 🐛 2 | 🌐 C++ | 📅 2023-07-08 - Standalone C++ client for I2P/Bote e-mail exchange protocol.
 * [i2pboted](https://github.com/majestrate/i2pboted) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2017-10-26 - Go implementation of I2P/Bote.
 
 ### Forum / Blog
 
 * [i2p.syndie](https://github.com/i2p/i2p.syndie) ⚠️ Archived - Syndie is an open source system for operating distributed forums, offering a secure and consistent interface to various anonymous and non-anonymous content networks.
-* [railroad](https://github.com/eyedeekay/railroad) ⭐ 14 | 🐛 4 | 🌐 Go | 📅 2024-02-01 - A simple, single-user, self-hosted blogging system for I2P.
-* [cliqueclique](https://github.com/redhog/cliqueclique) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-06 - P2P forum on top of I2P.
+* [railroad](https://github.com/eyedeekay/railroad) ⭐ 15 | 🐛 4 | 🌐 Go | 📅 2024-02-01 - A simple, single-user, self-hosted blogging system for I2P.
+* [cliqueclique](https://github.com/redhog/cliqueclique) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-06 - P2P forum on top of I2P.
 * [syndie-core](https://github.com/kpetku/syndie-core) ⭐ 6 | 🐛 8 | 🌐 Go | 📅 2023-02-25 - CLI, network, and database backend for syndie-gui.
 * [syndie-gui](https://github.com/kpetku/syndie-gui) ⭐ 3 | 🐛 7 | 🌐 Go | 📅 2023-03-06 - Syndie GUI frontend for syndie-core.
 
@@ -126,7 +126,7 @@
 
 ### Torrents
 
-* [XD](https://github.com/majestrate/XD) ⭐ 277 | 🐛 29 | 🌐 Go | 📅 2026-08-30 - BitTorrent Client written in Go.
+* [XD](https://github.com/majestrate/XD) ⭐ 278 | 🐛 29 | 🌐 Go | 📅 2026-08-30 - BitTorrent Client written in Go.
 * [Transmission-I2P](https://github.com/l-n-s/transmission-i2p) ⭐ 43 | 🐛 1 | 🌐 C | 📅 2018-01-06 - Anonymous torrent client Transmission-I2P.
 * [samtracker](https://github.com/eyedeekay/samtracker) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2022-08-29 - HTTP Bittorrent tracker with automatic port-forwarding to I2P.
 
@@ -151,7 +151,7 @@
 
 ### SAM
 
-* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,113 | 🐛 271 | 🌐 C++ | 📅 2026-10-26 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
+* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) ⭐ 6,115 | 🐛 277 | 🌐 C++ | 📅 2026-10-27 - libtorrent is a popular C++ BitTorrent library that has support for I2P.
 * [i2p-rs](https://github.com/i2p/i2p-rs) ⭐ 106 | 🐛 6 | 🌐 Rust | 📅 2025-07-17 - Rust client library for interacting with I2P.
 * [node-i2p](https://github.com/redhog/node-i2p) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-29 - NodeJS api for communicating over I2P (SAMv3 client).
 * [i2psam](https://github.com/i2p/i2psam) ⭐ 43 | 🐛 4 | 🌐 C++ | 📅 2025-07-17 - C++ SAMv3 library.
@@ -216,4 +216,4 @@ Thanks to all [contributors](https://github.com/mikalv/awesome-i2p/graphs/contri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
