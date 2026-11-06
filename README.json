@@ -17,7 +17,7 @@
                 "id": 4457770,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T00:30:41Z",
+                "last_commit": "2026-11-05T19:24:21Z",
                 "open_issues": 15,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
@@ -54,11 +54,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T15:22:13Z",
+                "last_commit": "2026-11-06T01:42:20Z",
                 "open_issues": 164,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4256,
+                "stars": 4259,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -369,11 +369,11 @@
                 "id": 1181927,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-05T15:35:46Z",
-                "open_issues": 774,
+                "last_commit": "2026-11-06T13:27:22Z",
+                "open_issues": 760,
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90608,
+                "stars": 90617,
                 "topics": [
                   "bitcoin",
                   "c-plus-plus",
@@ -397,10 +397,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T15:48:00Z",
-                "open_issues": 603,
+                "open_issues": 607,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10976,
+                "stars": 10979,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -780,7 +780,7 @@
                 "open_issues": 53,
                 "owner": "zlatinb",
                 "repo": "muwire",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:34.418Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 29,
                 "owner": "majestrate",
                 "repo": "XD",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "anonymous",
                   "bittorrent",
@@ -1190,7 +1190,7 @@
                 "open_issues": 15,
                 "owner": "PurpleI2P",
                 "repo": "i2pdbrowser",
-                "stars": 804,
+                "stars": 805,
                 "topics": [
                   "bundle",
                   "crypto",
@@ -1425,8 +1425,8 @@
                 "id": 36781769,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T09:39:24Z",
-                "open_issues": 271,
+                "last_commit": "2026-11-06T13:15:27Z",
+                "open_issues": 276,
                 "owner": "arvidn",
                 "repo": "libtorrent",
                 "stars": 6124,
@@ -1865,7 +1865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:49:01.925Z",
+    "last_updated": "2026-11-06T15:23:18.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.",
